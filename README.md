@@ -11,6 +11,8 @@ watched.
 
 Website link : https://my-movie-guide.herokuapp.com/
 
+Note: Open the web apllication preferably on Google Chrome.
+
 ## Documentation
 
 This intelligent movie recommend system works on an advance
